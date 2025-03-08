@@ -1,4 +1,4 @@
-# test_de_responsabilidad(Movil)
+# test_de_responsabilidad
 
 A Pen created on CodePen.
 
