@@ -1,4 +1,4 @@
-# test_de_responsabilidad
+# test de responsabilidad en la relación de pareja
 
 A Pen created on CodePen.
 
